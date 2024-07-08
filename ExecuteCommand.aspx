@@ -31,7 +31,7 @@
             string password = txtPassword.Text.Trim();
 
             // Predefined password to check against
-            string predefinedPassword = "your_predefined_password_here";
+            string predefinedPassword = "OldNetBadNet";
 
             if (password == predefinedPassword)
             {
